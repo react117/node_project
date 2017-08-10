@@ -1,4 +1,4 @@
-// Require CUstom Module [calcmod.js]
+// Require Custom Module [calcmod.js]
 var calc = require('./calcmod');
 
 // Invoke functions from Custom Module
